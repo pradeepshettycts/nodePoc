@@ -1,0 +1,27 @@
+{
+  "name": "nodepoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeepshettycts/nodePoc.git"
+  },
+  "author": "pradeep shetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeepshettycts/nodePoc/issues"
+  },
+  "homepage": "https://github.com/pradeepshettycts/nodePoc#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
